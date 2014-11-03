@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<h2>
+<a href="{{ page.url }}" title="[Permalink] {{ page.title }}">{{ page.title }}</a>
+</h2>
+<div class="post_date">{{ page.date | date_to_long_string }}</div>
+{{ content }}
+<div class="previous_next_post">
+{% if page.previous %}
+<p style="font-size: 75%; float: left;">
+<strong>Previous Entry:</strong>
+<a href="{{ page.previous.url }}" title="{{ page.previous.title }}">{{ page.previous.title }}</a>
+</p>
+{% endif %}
+{% if page.next %}
+<p style="font-size: 75%; text-align: right;">
+<strong class="right">Next Entry:</strong>
+<a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }}</a>
+</p>
+{% endif %}
+<div style="clear: both;"></div>
+</div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+//<![CDATA[
+//var disqus_developer = location.host.match(/\.dev$|^localhost/) ? 1 : 0;
+var disqus_developer = 1;
+//]]>
+</script>
+<script type="text/javascript" src="http://disqus.com/forums/wulfovitch/embed.js"></script>
+<noscript>
+<p><a href="http://wulfovitch.disqus.com/?url=ref">View the discussion thread.</a></p>
+</noscript>
