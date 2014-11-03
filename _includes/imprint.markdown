@@ -1,4 +1,4 @@
-n law requires an imprint, so here it is. If you wish to contact me, don't hesitate to use the mail adress given below.
+German law requires an imprint, so here it is. If you wish to contact me, don't hesitate to use the mail adress given below.
 
 Responsible for this website is:
 
