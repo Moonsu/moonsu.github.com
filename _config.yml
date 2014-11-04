@@ -2,11 +2,10 @@ destination: ./_site
 auto: false
 lsi: false
 server_port: 4000
-markdown: maruku
+#markdown: maruku
 permalink: /:year/:month/:title/
 pygments: true
 paginate: 5
-maruku:
 use_tex: false
 use_divs: false
 png_dir: images/latex
