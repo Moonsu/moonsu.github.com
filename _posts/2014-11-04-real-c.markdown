@@ -1,5 +1,9 @@
 ---
-layout: Real C
-title: Real c
+layout: post
+title:  Real C++
+date:   2014-11-04 19:29:56
+categories: C++
 ---
-Real C Show!!
+
+c++ is very useful!!!
+
