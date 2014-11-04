@@ -2,7 +2,7 @@
 layout: page
 title: Imprint
 
-permalink: //
+permalink: /imprint/
 ---
 made in koreatech
 <br />
