@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 <img src="/images/picture1.jpg" title="J & H" class="img_left" alt="??" />
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+이 블로그는 Jekyll과 Github를 이용한 것이다.
+C언어를 이용하여 구구단을 구현하는 프로그램을 만드는 방법을 배우고자 함을 목적으로 한다.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
