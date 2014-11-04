@@ -9,5 +9,5 @@ categories: C++
 참조하기 바란다.
 
 <p style="text-align: center">
-<object type="application/x-shockwave-flash" width="480" height="385" data="http://www.youtube.com/v/O5Njv9x6Glo"><param name="movie" value="http://www.youtube.com/v/O5Njv9x6Glo" /></object>
+<object type="application/x-shockwave-flash" width="480" height="385" data="www.youtube.com/watch?v=KBDeYmQgOJo"><param name="movie" valu="www.youtube.com/watch?v=KBDeYmQgOJo" /></object>
 </p>
